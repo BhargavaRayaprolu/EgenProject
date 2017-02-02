@@ -1,0 +1,20 @@
+.addtitle-input {
+    width: 150%;
+    margin-top: 5%;
+}
+
+.addtitle-header{
+    text-align: center;
+}
+
+.addtitle-button{
+    left: 103%;
+    position: relative;
+    margin-bottom: 11px;
+    margin-top: 28px;
+}
+
+.btn-movieinfo{
+    text-align: center;
+    margin-top: 3%;
+}
